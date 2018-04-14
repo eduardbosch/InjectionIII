@@ -14,7 +14,7 @@ and run the app. Injection also expects to find your current Xcode at path /Appp
 Injection no longer requires you to change your project as for iOS is always available if you use the
 "Start Injection" menu (or type control-=) each time you start your app.
 
-If you get tired of this or you want to develop 32 bit apps or tvOS or macOS you can and add one
+If you get tired of this or you want to develop 32 bit apps or tvOS or macOS you can add one
 of the following to your applicationDidFinishLaunching:
 
 ```Swift
